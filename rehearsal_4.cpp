@@ -1,6 +1,13 @@
 #include <iostream>
-
-//Write compress() here.
+#include <string>
+using namespace std;
+string conpress(string ref){
+    string s ;
+    for(int i = 0 ; i < ref.size() ; i += 3){
+        s += ref[i];
+    }
+    return s;
+}
 
 int main()
 {
