@@ -1,3 +1,3 @@
-# NAME:
-# STUDENT ID:
-# มีอะไรอยากจะบอกอาจารย์ไหม:
+# NAME:Traiphob Srimanee
+# STUDENT ID:620610788
+# มีอะไรอยากจะบอกอาจารย์ไหม: 
