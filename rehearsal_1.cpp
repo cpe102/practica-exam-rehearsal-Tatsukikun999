@@ -12,7 +12,7 @@ int main(){
     if(g>=3.50){
         cout<<n<<" Inw Jrim Jrim!!!";
     }else{
-        cout<<"Try harder, "<<n<<"!!!"<<endl;
+        cout<<"Try harder, "<<n<<"!!!";
     }
 }
 
